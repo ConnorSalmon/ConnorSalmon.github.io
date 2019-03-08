@@ -1,17 +1,17 @@
 # Site settings
-title: "Connor Salmon"
+title: connor salmon
 email: connor.louis.salmon@gmail.com
 description: "Experienced UX Designer & Researcher" > # this means to ignore newlines until "baseurl:" 
-url: "ConnorSalmon.github.io" # the base hostname & protocol for your site
+url: "connorsalmon.github.io" # the base hostname & protocol for your site
 
 # User setting
-owner: Connor Salmon
+owner: connor salmon
 email: connor.louis.salmon@gmail.com
 github_username: ConnorSalmon
-address: San Francisco, California
+address: san francisco, california
   # Feel free to add more lines here 
 telephone: +1 (415)209-4584 
-copyright: Connor Salmon / UX Design / 2019
+copyright: connor salmon / ux design / 2019
 
 # Build settings
 markdown: kramdown
