@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title: Connor Salmon
 email: connor.louis.salmon@gmail.com
@@ -16,3 +17,5 @@ copyright: Connor Salmon  UX Design  2019
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
+=======
+>>>>>>> 2950c3dca723ba01922bb33e3b1b291c5887604f
