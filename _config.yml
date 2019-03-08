@@ -1,8 +1,8 @@
 # Site settings
 title: Connor Salmon
-email: Connor.louis.salmon@gmail.com
+email: connor.louis.salmon@gmail.com
 description: Experienced UX Designer and Researcher # this means to ignore newlines until "baseurl:" 
-url: Connorsalmon.github.io # the base hostname & protocol for your site
+url: connorsalmon.github.io # the base hostname & protocol for your site
 
 # User setting
 owner: Connor Salmon
