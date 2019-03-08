@@ -10,7 +10,7 @@ owner: Connor Salmon
 email: connor.salmon@gmail.com
 facebook_username:
 twitter_username:
-github_username:ConnorSalmon
+github_username: ConnorSalmon
 address: San Francisco, California
   - line:
   - line:
@@ -22,5 +22,5 @@ copyright: Connor Salmon / UX Design / 2019
 google_api_key:
 
 # Build settings
-markdown:kramdown
-theme:jekyll-theme-cayman
+markdown: kramdown
+theme: jekyll-theme-cayman
