@@ -14,9 +14,6 @@ address: San Francisco, California
 telephone: +1 (415)209-4584 
 copyright: Connor Salmon / UX Design / 2019
 
-# API settings
-google_api_key:
-
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
