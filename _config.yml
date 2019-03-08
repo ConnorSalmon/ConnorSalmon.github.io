@@ -16,4 +16,3 @@ copyright: Connor Salmon  UX Design  2019
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
-hightighter: rouge
