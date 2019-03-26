@@ -38,7 +38,7 @@
 						<!-- Post -->
 							<section class="post">
 								<header class="major">
-									<span class="date">March 12, 2019</span>
+									<br /><p><b><span id="displayDate"></span></b> </p>
 									<h1>This is My Story</h1>
 									<p><strong>From the Berlin Startup Scene to CES 2019</strong></p>
 									<br /><p><b> ><(((''></b> </p>
@@ -83,6 +83,10 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script type="text/javascript">
+var newDate = new Date();
+newDate.setDate(newDate.getDate() + 1);
+document.getElementById('displayDate').innerHTML = (newDate.getMonth() + 1) + '/' + newDate.getDate() + '/' + newDate.getFullYear();
 
 	</body>
 </html>
