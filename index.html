@@ -47,7 +47,7 @@
 						<!-- Featured Post -->
 							<article class="post featured">
 								<header class="major">
-									<span class="date">March 12, 2019</span>
+									<br /><p><b><span id="displayDate"></span></b> </p>
 									<h2><a href="#">And this is a<br />
 									look at my work</a></h2>
 									<p><strong>From the Berlin Startup Scene to CES 2019</strong></p>
@@ -125,6 +125,12 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script type="text/javascript">
+var newDate = new Date();
+newDate.setDate(newDate.getDate() + 1);
+document.getElementById('displayDate').innerHTML = (newDate.getMonth() + 1) + '/' + newDate.getDate() + '/' + newDate.getFullYear();
+
+</script>
 
 	</body>
 </html>
